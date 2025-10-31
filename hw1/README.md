@@ -1,10 +1,9 @@
-### Exercise 1 - Digital Image Processing
+# Exercise 1 - Digital Image Processing
 
 This folder contains the solution to the first exercise of the Digital Image Processing course. The exercise explores various image processing techniques using Python and OpenCV, such as zooming, contrast enhancement, histogram equalization, and transformations. The following sections describe the steps performed in each question and how to run the code.
 
----
 
-### Questions Overview
+# Questions Overview
 
 1. **Image Zooming**:
 
